@@ -1,5 +1,11 @@
 # Hadoop Docker
 
+
+## THIS README IS OUT OF DATE!!! ###
+## DESACTUALIZADO ###
+
+
+
 This repository contains *Dockerfile*s for setting up a basic Hadoop cluster.
 The available components are:
 
