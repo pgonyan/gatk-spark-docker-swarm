@@ -1,0 +1,4 @@
+#!/bin/bash
+#Script para encender los equipos de la Sala 2.6
+
+wol -i 10.209.2.82 ac:9e:17:88:ba:6a #cc2611
