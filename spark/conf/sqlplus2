@@ -1,3 +1,0 @@
-#!/bin/bash
-
-rlwrap /usr/bin/sqlplus64 $1@ORCLPDB1

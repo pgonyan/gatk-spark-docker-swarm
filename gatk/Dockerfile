@@ -93,7 +93,7 @@ RUN apt-get install -y nscd
 
 EXPOSE 22
 
-RUN echo "root:wopis2017" | chpasswd
+RUN echo "root:cambiar" | chpasswd
 
 RUN echo "LC_ALL=en_US.UTF-8" >> /etc/environment
 RUN echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen
